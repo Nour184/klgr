@@ -1,0 +1,14 @@
+#the compiled binaries
+klgr 
+keylogger
+a.out
+#object files
+*.o
+*.so
+*.a
+#ide configs
+.vscode/
+
+#dump logs
+core
+*.log
